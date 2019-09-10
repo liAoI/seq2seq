@@ -8,4 +8,6 @@
 链接：https://pan.baidu.com/s/12pg77vTf87jEflhvLtzlhA 
 提取码：hk7j 
 
+训练的loss结果图如下：
 
+![image](https://github.com/liAoI/RNN-pytorch--/blob/master/images_result/2019-09-07 09-17-24seq2seq.png)
