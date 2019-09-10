@@ -11,3 +11,5 @@
 训练的loss结果图如下：
 
 ![image](https://github.com/liAoI/RNN-pytorch--/blob/master/images_result/seq2seqforloss.png)
+
+在训练中发现，程序可能会很吃内存，或者是哪个地方需要优化，总是训练不到一个epoch，就被Kill掉。有时间我会更新一下。还没有跑出验证结果就被Kill掉，也很无奈！
